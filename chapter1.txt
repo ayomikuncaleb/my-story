@@ -1,1 +1,1 @@
-this is the first version of git 
+this is the alien version of git of course
